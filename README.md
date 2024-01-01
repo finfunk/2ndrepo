@@ -1,2 +1,2 @@
 # 2ndrepo
-python trash
+python trash lol
